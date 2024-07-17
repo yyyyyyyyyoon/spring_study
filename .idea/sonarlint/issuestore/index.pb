@@ -9,7 +9,7 @@ p
 Nhello-spring/src/main/java/hello/hello_spring/repository/MemberRepository.java,1\6\1647b3f805845d9016a8e5c969693dd04418e815
 „
 Thello-spring/src/main/java/hello/hello_spring/repository/MemoryMemberRepository.java,0\4\048f60c6141a21c1a4449b3c50f64152c263f5e4
-‰
-Yhello-spring/src/test/java/hello/hello_spring/repository/MemoryMemberRepository/Test.java,8\e\8e31db30f747aef6f1b58817096ee5cb2ad5f6ff
 ˆ
 Xhello-spring/src/test/java/hello/hello_spring/repository/MemoryMemberRepositoryTest.java,7\1\7146885eb868155f87b8c46c530d79d56ae74a43
+x
+Hhello-spring/src/main/java/hello/hello_spring/service/MemberService.java,5\a\5acc40c9c54757f2c280ef61da35a1b230a6b72d
