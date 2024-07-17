@@ -9,7 +9,13 @@ import java.util.Optional;
 
 public class MemberService {
 
-    private final MemberRepository memberRepository = new MemoryMemberRepository();
+
+
+    private final MemberRepository memberRepository;
+
+    public MemberService(MemberRepository memberRepository) {
+        this.memberRepository = memberRepository;
+    } //외부에서 넣어줌, MemberServiceTest와 동일 (DI)
 
     /**
      * 회원가입
@@ -22,9 +28,9 @@ public class MemberService {
 
     private void validateDuplicateMember(Member member) {
         memberRepository.findByName(member.getName()) //null인 가능성이 있는 경우 Optional 사용
-            .ifPresent(m -> {
-                throw new IllegalStateException("이미 존재하는 회원입니다.");
-            });
+                .ifPresent(m -> {
+                    throw new IllegalStateException("이미 존재하는 회원입니다.");
+                });
     }
 
     /**
@@ -35,6 +41,6 @@ public class MemberService {
     }
 
     public Optional<Member> findOne(Long memberId) {
-        return  memberRepository.findById(memberId);
+        return memberRepository.findById(memberId);
     }
 }

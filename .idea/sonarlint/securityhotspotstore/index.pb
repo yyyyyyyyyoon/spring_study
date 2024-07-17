@@ -13,3 +13,5 @@ Thello-spring/src/main/java/hello/hello_spring/repository/MemoryMemberRepository
 Xhello-spring/src/test/java/hello/hello_spring/repository/MemoryMemberRepositoryTest.java,7\1\7146885eb868155f87b8c46c530d79d56ae74a43
 x
 Hhello-spring/src/main/java/hello/hello_spring/service/MemberService.java,5\a\5acc40c9c54757f2c280ef61da35a1b230a6b72d
+|
+Lhello-spring/src/test/java/hello/hello_spring/service/MemberServiceTest.java,e\b\eb414e031736074c9626428f1160de9b9abc1615
