@@ -17,3 +17,5 @@ Hhello-spring/src/main/java/hello/hello_spring/service/MemberService.java,5\a\5
 Lhello-spring/src/test/java/hello/hello_spring/service/MemberServiceTest.java,e\b\eb414e031736074c9626428f1160de9b9abc1615
 ~
 Nhello-spring/src/main/java/hello/hello_spring/controller/MemberController.java,0\b\0b73cb8f751eb93cdfba827f4da3d24d222b1f8d
+w
+Ghello-spring/src/main/java/hello/hello_spring/service/SpringConfig.java,b\2\b29239976d7c7ffb345ad53d0e9c0f2dce1cead7
