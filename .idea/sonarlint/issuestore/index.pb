@@ -19,3 +19,9 @@ Lhello-spring/src/test/java/hello/hello_spring/service/MemberServiceTest.java,e
 Nhello-spring/src/main/java/hello/hello_spring/controller/MemberController.java,0\b\0b73cb8f751eb93cdfba827f4da3d24d222b1f8d
 w
 Ghello-spring/src/main/java/hello/hello_spring/service/SpringConfig.java,b\2\b29239976d7c7ffb345ad53d0e9c0f2dce1cead7
+|
+Lhello-spring/src/main/java/hello/hello_spring/controller/HomeController.java,f\b\fbcead57c6d5ff696c6913ce72da95c144ee0c43
+y
+Ihello-spring/src/main/java/hello/hello_spring/HelloSpringApplication.java,5\9\599a5385cb7f95eda8b11deb98d5cf665f54b6af
+x
+Hhello-spring/src/main/java/hello/hello_spring/controller/MemberForm.java,8\8\88877ec0754d228ea073a2f641fc1b270890523e
