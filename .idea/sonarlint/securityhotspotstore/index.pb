@@ -25,3 +25,9 @@ y
 Ihello-spring/src/main/java/hello/hello_spring/HelloSpringApplication.java,5\9\599a5385cb7f95eda8b11deb98d5cf665f54b6af
 x
 Hhello-spring/src/main/java/hello/hello_spring/controller/MemberForm.java,8\8\88877ec0754d228ea073a2f641fc1b270890523e
+H
+hello-spring/sql/ddl.sql,2\c\2cd921615bb45a0bfc6161aae76c5d318cbca3fe
+Š
+Zhello-spring/src/main/java/hello/hello_spring/repository/JdbcTemplateMemberRepository.java,5\e\5e8f379d15e4d449537a7d8cb9c5890552c5849a
+‡
+Whello-spring/src/test/java/hello/hello_spring/service/MemberServiceIntegrationTest.java,c\2\c261e2f759cc4a7d07e8ac66a08b67daf8cedb89
