@@ -31,3 +31,11 @@ H
 Zhello-spring/src/main/java/hello/hello_spring/repository/JdbcTemplateMemberRepository.java,5\e\5e8f379d15e4d449537a7d8cb9c5890552c5849a
 á
 Whello-spring/src/test/java/hello/hello_spring/service/MemberServiceIntegrationTest.java,c\2\c261e2f759cc4a7d07e8ac66a08b67daf8cedb89
+D
+hello-spring/gradlew,c\0\c02aa5f49938f1d06cbe31405dac2845fa60a811
+I
+hello-spring/build.gradle,5\8\585acacfbd7a1949e41f56f7c476e76e0dd9aa23
+Å
+Qhello-spring/src/main/java/hello/hello_spring/repository/JpaMemberRepository.java,4\6\4634343a2439fbeab5bd1bced8419d67a4ec5a8f
+ã
+[hello-spring/src/main/java/hello/hello_spring/repository/SpringDataJpaMemberRepository.java,e\5\e5f97bc6b9b5fe1c525e3b99ee2f4a0abeedb888
