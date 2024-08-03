@@ -18,6 +18,7 @@ public class MemberController {
     @Autowired
     public MemberController(MemberService memberService) {
         this.memberService = memberService;
+        System.out.println("memberService = "+memberService.getClass());
     } //생성자 주입 (외에 필드, setter 주입 있음)
 
     @GetMapping("/members/new")

@@ -39,3 +39,9 @@ I
 Qhello-spring/src/main/java/hello/hello_spring/repository/JpaMemberRepository.java,4\6\4634343a2439fbeab5bd1bced8419d67a4ec5a8f
 ‹
 [hello-spring/src/main/java/hello/hello_spring/repository/SpringDataJpaMemberRepository.java,e\5\e5f97bc6b9b5fe1c525e3b99ee2f4a0abeedb888
+E
+hello-spring/aop.java,c\1\c16b4144e458a228853ecf4081dc1e247e1cef9d
+R
+"hello-spring/aop/TimeTraceAop.java,a\e\ae568558e0413c44012bf37c41f0fa071e5edf0a
+s
+Chello-spring/src/main/java/hello/hello_spring/aop/TimeTraceAop.java,9\5\95f5b92c3ac9c99149be26fb8387e130a31eea73
